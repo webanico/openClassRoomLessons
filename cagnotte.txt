@@ -1,1 +1,2 @@
-Réalisation de la partie cagnotte côté front .
+Réalisation de la partie cagnotte côté fr end.
+Une cagnotte c'est bien ... mais qui ramène les sous ?
